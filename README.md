@@ -86,5 +86,6 @@ The best-performing model achieved strong explanatory power while maintaining in
 
 ## Files
 
-- **Notebook:** `cancer_survival_final.ipynb`
-- **Data:** `data/GDO_data_wide.csv`
+- **Notebook:** `cancer_survival_final_v5.ipynb`
+
+- **Data:** `Data/GDO_data_wide.csv`
