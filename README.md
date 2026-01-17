@@ -87,9 +87,6 @@ The best-performing model achieved strong explanatory power while maintaining in
 ## Files
 
 - **Notebook:** [cancer_survival_final_v5.ipynb](cancer_survival_final_v5.ipynb)
-- **Dataset:** [GDO_data_wide.csv](Data/GDO_data_wide.csv)
-
-- **Notebook:** `cancer_survival_final_v5.ipynb`
-
-- **Data:** 'https://drive.google.com/file/d/1W03jCDA6tCw6dYELYqmc8k6IXAeZy7DF/view?usp=sharing'
 - **Note:** Data file is too big to load into git so please download it either from the original website for UK National Disease Registration Service (NDRS) 'https://digital.nhs.uk/ndrs/data/data-outputs/cancer-data-hub/get-data-out' or use the link to the google drive above
+- - **Data:** 'https://drive.google.com/file/d/1W03jCDA6tCw6dYELYqmc8k6IXAeZy7DF/view?usp=sharing'
+
